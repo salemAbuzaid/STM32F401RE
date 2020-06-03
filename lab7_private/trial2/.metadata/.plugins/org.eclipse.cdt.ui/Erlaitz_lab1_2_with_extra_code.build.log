@@ -1,0 +1,10 @@
+00:45:54 **** Incremental Build of configuration Debug for project Erlaitz_lab1_2_with_extra_code ****
+make -j8 all 
+arm-none-eabi-size   Erlaitz_lab1_2_with_extra_code.elf 
+   text	   data	    bss	    dec	    hex	filename
+   2788	     16	   1568	   4372	   1114	Erlaitz_lab1_2_with_extra_code.elf
+Finished building: default.size.stdout
+ 
+
+00:45:54 Build Finished. 0 errors, 0 warnings. (took 846ms)
+

@@ -1,0 +1,10 @@
+11:23:42 **** Incremental Build of configuration Debug for project viewer ****
+make -j8 all 
+arm-none-eabi-size   viewer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11176	     12	   1828	  13016	   32d8	viewer.elf
+Finished building: default.size.stdout
+ 
+
+11:23:43 Build Finished. 0 errors, 0 warnings. (took 817ms)
+

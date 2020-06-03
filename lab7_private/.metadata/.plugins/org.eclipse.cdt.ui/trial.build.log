@@ -1,0 +1,10 @@
+11:52:58 **** Incremental Build of configuration Debug for project trial ****
+make -j8 all 
+arm-none-eabi-size   trial.elf 
+   text	   data	    bss	    dec	    hex	filename
+   2940	     16	   1568	   4524	   11ac	trial.elf
+Finished building: default.size.stdout
+ 
+
+11:53:00 Build Finished. 0 errors, 0 warnings. (took 1s.373ms)
+
