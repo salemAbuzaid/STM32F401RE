@@ -102,7 +102,7 @@ int main(void)
   LL_TIM_WriteReg(TIM3 , PSC ,21);
   LL_TIM_WriteReg(TIM3 , ARR ,1000);
 
-
+ //----------- 
   /* USER CODE END 2 */
 
   /* Infinite loop */
